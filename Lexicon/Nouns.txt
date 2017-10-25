@@ -1,0 +1,13 @@
+people
+history
+art
+world
+health
+system
+meat
+year
+music
+person
+method
+data
+noun

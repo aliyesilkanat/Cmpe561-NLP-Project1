@@ -1,0 +1,11 @@
+act
+aim
+answer
+attack
+ban
+escape
+hate
+insult
+shop
+show
+
