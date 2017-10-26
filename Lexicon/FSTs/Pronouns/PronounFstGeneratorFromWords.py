@@ -29,6 +29,7 @@ r = Resolver('name')
 
 with open(sys.argv[1]) as f:
     words = f.readlines()
+    words.sort()
     for word in words:
         trimmed_word=word.rstrip()
         root=top
