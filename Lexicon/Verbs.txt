@@ -1,0 +1,29 @@
+be/were&was/been
+begin/began/begun (er:+N|ing:+ADJ|ing:+N(less:+ADJ)) 
+bring/brought/brought (er+:N)
+buy/bought/bought (able+:ADJ)
+cut/cut/cut (er:+N|ing:+N|ing:+ADJ)
+do/did/done 
+fly/flew/flown (able:+ADJ|er:+N|man:+N|men:+PL+N|ing:+N(ness:+N)|ing:+ADJ)
+make/made/made (able:+ADJ|er:+N|ing:+N)
+rise/rose/risen (er:+N|ing:+ADJ|ing:+N)
+swim/swam/swum (er:+N|able:+ADJ|ing:+N(ly:+ADV))
+write/wrote/written (ing:+N|er:+N|able:+ADJ)
+accept (-ee:+N|-ing:+ADJ(-ness:+N|-ly:+ADV)-ation:+N|-or:+N|-ence:+N|-ency:+N|-able:+ADJ(-ity:+N|-ness:+N)|-ent:+ADJ|-ive:+ADJ(-ity:+N))
+acknowledge (-able:+ADJ|-ement:+N|-ed:+ADJ(-ly:+ADV)|-er:+N)
+admire (-er+:N|-ing:+ADJ(-ly:+ADV))
+allow (-able:+ADJ(-y:+ADV|-ity:+N|-ness:+N)|-ance:+N)
+advise (-ee:+N|-or:+N(-y:+ADJ|-y:+N|-ate:+N)|-ed:+ADJ(-ly:+ADV|-ness:+N)|-er:+N)
+deserve (-ed:+ADJ(-ly:+ADV|-ness:+N)|-ing:+ADJ(-ly:+ADV|-ness:+N))
+continue (-ing:+ADJ(-ly:+ADV)|-ed:+ADJ(-ly:+ADV)|-ation:+N|-able:+ADJ|-ance:+N|-ity:+N|-er:+N)
+act
+aim
+answer
+attack
+ban
+escape
+hate
+insult
+shop
+show
+
