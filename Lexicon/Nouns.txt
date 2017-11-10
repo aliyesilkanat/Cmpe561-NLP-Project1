@@ -1,4 +1,4 @@
-people
+person/people
 history
 art
 world
@@ -7,7 +7,6 @@ system
 meat
 year
 music
-person
 method
 data
 noun
