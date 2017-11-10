@@ -1,12 +1,19 @@
-person/people
-history
-art
+person/people (-able:+ADJ(-ness:+N|-y:+ADV)|-al:+ADJ(-ity:+N|-ism:+N|-ly:+ADV)|-age:+N|-ate:+V|-ify:+V(-ation:+N|-ed:+ADJ)|-ize:+V(-ation:+N))
+history (-ial:+ADJ|-ial:+N|-ian:+N|-iate:+V(-ed:+ADJ)|-ic:+ADJ(-al:+N|-ism:+N|-ist:+N|-ity:+N|-ize:+V(-ation:+N|-er:+N))|-ian:+N|-less:+ADJ)
+art (-ist:+N(-ry:+N|-ic:+ADJ(-al:+ADJ))|-y:+ADJ)
 world
-health
-system
-meat
-year
-music
-method
-data
-noun
+meat (-al:+ADV|-us:+N|-less:+ADJ|-ed:+ADJ|-y:+ADJ|-man:+N)
+year (-ly:+ADV|-ly:+ADJ)
+music (-al:+ADJ|-al:+N(-ly:+ADV|-e:+N|-ize:+V(-ation:+N))|-ian:+N|-ship:+N|-ology:+N)
+method (-ic:+ADJ(-al:+ADJ(-ly:+ADV|-ness:+N))|-ist:+N(-ic:+ADJ)|-ology:+N|-ize:+V)
+data/data
+act
+aim
+answer
+attack
+ban
+escape
+hate
+insult
+shop
+show
