@@ -1,4 +1,4 @@
-be/were&was/been
+be
 begin/began/begun (er:+N|ing:+ADJ|ing:+N(less:+ADJ)) 
 bring/brought/brought (er+:N)
 buy/bought/bought (able+:ADJ)
@@ -15,7 +15,7 @@ admire (-er+:N|-ing:+ADJ(-ly:+ADV))
 allow (-able:+ADJ(-y:+ADV|-ity:+N|-ness:+N)|-ance:+N)
 advise (-ee:+N|-or:+N(-y:+ADJ|-y:+N|-ate:+N)|-ed:+ADJ(-ly:+ADV|-ness:+N)|-er:+N)
 deserve (-ed:+ADJ(-ly:+ADV|-ness:+N)|-ing:+ADJ(-ly:+ADV|-ness:+N))
-continue (-ous:-ADJ(-ly:+ADV)|ing:+ADJ(-ly:+ADV)|-ed:+ADJ(-ly:+ADV|-ness:+N)|-ation:+N|-able:+ADJ|-ance:+N|-ity:+N(-ive:+ADJ)|-er:+N|-ator:+N)
+continue (-ous:+ADJ(-ly:+ADV)|ing:+ADJ(-ly:+ADV)|-ed:+ADJ(-ly:+ADV|-ness:+N)|-ation:+N|-able:+ADJ|-ance:+N|-ity:+N(-ive:+ADJ)|-er:+N|-ator:+N)
 act (-able:+ADJ(-ity:+N)|-ive:+ADJ(-ize:+V|-ist:+N|-ist:ADJ(-ic:+ADJ)|-ism:+N|-ate:+V(-ion:+N|-or:+N)|-ase:+N|-ly:+ADV|-ness:+N)|-ant:+N|-ing:+ADJ|-ing:+N|-or:+N(-ine:+N|-ish:+ADJ|-ly:+ADJ)|-ress:+N(-y:+ADJ)|-ion:+N(-er:+N|-al:+ADJ|-able:+ADJ(-y:+ADV|-ity:+N)))
 aim (-er:+N|-less:+ADJ(-ly:+ADV)|-ful:+ADJ(-y:+ADV))
 answer (-er:+N|-able:+ADJ(-ity:+N|-y:+ADV|-ness:+N))
@@ -25,5 +25,4 @@ escape (-ement:+N|-er:+N|-ee:+N|-able:+ADJ|-ism:+N|-ist:+ADJ|-ed:+ADJ)
 hate (-able:+ADJ|-ful:+ADJ(-y:+ADV|-ness:+N)|-er:+N|-ed:+ADJ|-less:+ADJ(-ness:+N)|-ly:+ADJ)
 insult (-er:+N|-ing:+ADJ(-ly:+ADV)|-ant:+N|-able:+ADJ|-ment:+N)
 shop (-ful:+N|-ing:+N|-man:+N|-aholic:+N)
-show (-able:+N|-less:ADJ|-ful:+ADJ(-ly:+ADV))
-
+show (-able:+N|-less:+ADJ|-ful:+ADJ(-ly:+ADV))
