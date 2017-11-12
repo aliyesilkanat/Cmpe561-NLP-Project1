@@ -26,27 +26,22 @@ hate (-able:+ADJ|-ful:+ADJ(-y:+ADV|-ness:+N)|-er:+N|-ed:+ADJ|-less:+ADJ(-ness:+N
 insult (-er:+N|-ing:+ADJ(-ly:+ADV)|-ant:+N|-able:+ADJ|-ment:+N)
 shop (-ful:+N|-ing:+N|-man:+N|-aholic:+N)
 show (-able:+N|-less:+ADJ|-ful:+ADJ(-ly:+ADV))
-
-
-VERB
 anger
-boast ( -ful: +ADJ (-ly:+ADV | -ness:+N))
+boast (-ful:+ADJ(-ly:+ADV|-ness:+N))
 cheer
 crazew
 deliberate
-devote(-e:+N | -ed:+ADJ (-ly:+ADV | -ness:+N))
-doubt 
-exact (-ly: +ADJ)
+devote (-e:+N|-ed:+ADJ(-ly:+ADV|-ness:+N))
+doubt
+exact (-ly:+ADJ)
 fool
-grace 
-hope 
+grace
+hope
 power 
-rain(-y: +ADV)
-shake
+rain(-y:+ADV)
+shake
 silence
-slow (-ly: +ADJ | -ness:+N)
+slow (-ly:+ADJ|-ness:+N)
 speed
-victory (-ous:+ADJ (-ly:+ADV |-ness:+N))
-wear(-able:+ADJ (-ity:+N) | -y:+ADJ (-ly:+ADV | -ness:+N) | -ing:+ADJ (-ly:+ADV))
-
-
+victory (-ous:+ADJ(-ly:+ADV|-ness:+N))
+wear (-able:+ADJ(-ity:+N)|-y:+ADJ(-ly:+ADV|-ness:+N)|-ing:+ADJ(-ly:+ADV))
