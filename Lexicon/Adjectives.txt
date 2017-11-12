@@ -1,0 +1,38 @@
+bold (-ly: +ADV  | -ness:+N)
+awkward (-ly: +ADV | -ness:+N )
+brave (-ly: +ADJ | -ry:+N | -ness)
+bright (-en:+V | -ish:+ADJ | -ness:+N | -ly: +ADJ)
+defiant (-ce:+N | -ly: +ADJ)
+deft: (-ly:+ADV | -ness:N)
+deliberate (-ly: +ADV  | -ness:+N) 
+eager (-ly: +ADJ | -ness)
+elegant ( -ce:+N | -ly: +ADJ) 
+exact 
+final
+fresh(-en:+V (-er:+N) | -ly)
+frequent (-cy:+ADJ | -ation:+N | -ative:+ADJ | -er:+N | -ly:+ADV)
+happy(-ly:+ADV | -ness:+N )
+honest (-y:+N | -ly: +ADV | -ness:+N)
+hungry (-ly:+ADV | -ness:+N )
+innocent
+just: (-ify+V | -ly: +ADV | -ice:+N)
+inquisitive ( -ion:+N (-al:+ADJ) | -ly: +ADJ | -ness)
+kind (-ly: +ADJ)
+mortal
+nerve 
+lazy(-ly:+ADV | -ness:+N )
+mad (-ly: +ADJ | -ness: +N)
+merry(-ly:+ADV | -ness:+N)
+obnoxious:(-ly:+ADV |-ness:+N)
+polite (-ly: +ADJ | -ness: +N)
+poor (-ly: +ADJ (-ness:+N) )
+rapid (-ly: +ADJ | -ness: +N)
+rare (-ly: +ADJ | -ness: +ADJ )
+rude (-ly: +ADJ | -ness:N )
+safe (-ly: +ADJ  | -ness: +N)
+serious (-ly: +ADJ | -ness:+N)
+sharp (-ly: +ADJ | -en:+V (-er:+N) )
+slow
+solemn (-ly: +ADJ  | -ity: +N | -ize:+V (-ation:+N ) | -ness:+N)
+stern (-al:ADJ | -ly: +ADJ | -ness:+N)
+usual (-ly: +ADJ | -ness:+N)
