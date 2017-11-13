@@ -110,14 +110,13 @@
 3 0 v v
 3 0 w w
 3 0 y y
-
 4 0 # #
 4 0 h h
 4 1 z z
 4 1 x x
 4 2 c c
 4 8 s s
-4 5 <eps> e
+4 9 <eps> +
 4 0 a a
 4 0 b b
 4 0 d d
@@ -196,6 +195,7 @@
 8 0 v v
 8 0 w w
 8 0 y y
+9 5 <eps> e
 0
 1
 2
