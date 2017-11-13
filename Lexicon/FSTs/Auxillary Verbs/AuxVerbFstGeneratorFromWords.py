@@ -1,35 +1,24 @@
-
-# coding: utf-8
-
-# In[223]:
-
-
 import sys
 import itertools
 from anytree import Node, RenderTree,Resolver,ChildResolverError,NodeMixin,PreOrderIter
 from anytree.dotexport import RenderTreeGraph
 
-
-
-# In[224]:
-
-
 class CustomNode( NodeMixin):  # Add state number feature
-    def __init__(self, name, state_number, parent=None):
+    def __init__(self, name, state_number, symbol,end_state=False,parent=None):
         super(CustomNode, self).__init__()
         self.name=name
         self.state_number=state_number
         self.parent=parent
+        self.end_state=end_state
+        self.symbol=symbol
 
-
-# In[220]:
 
 
 state_number=0
-top=CustomNode("root",state_number)
+top=CustomNode("root",state_number,"root",end_state=False)
 r = Resolver('name')
 
-with open(sys.argv[1]) as f:
+with open('Auxillary Verbs.txt') as f:
     words = f.readlines()
     words.sort()
     for word in words:
@@ -40,8 +29,10 @@ with open(sys.argv[1]) as f:
                 n=r.get(root,trimmed_word[i])
             except ChildResolverError:
                 state_number+=1
-                n=CustomNode(trimmed_word[i],state_number,root)
+                n=CustomNode(trimmed_word[i],state_number,trimmed_word[i],False,root)
             root=n
+        root.end_state=True
+
 
 
 # In[221]:
@@ -66,13 +57,14 @@ print_as_tabs(0,2,"</s>","</s>")
 print_as_tabs(2,0,"<eps>","<eps>")
 print_as_tabs(0,3,"<unk>","<unk>")
 print_as_tabs(3,0,"<eps>","<eps>")
+i=100
 for n in p:
     parent_state_number=n.parent.state_number
     if n.parent.state_number!=0:
         parent_state_number+=3
-    print_as_tabs(parent_state_number,n.state_number+3,n.name,n.name)
-    if n.is_leaf:
-        print_as_tabs(n.state_number+3,0,"+PRN","#")
+    print_as_tabs(parent_state_number,n.state_number+3,n.symbol,n.name)
+    if n.end_state:
+        print_as_tabs(n.state_number+3,0,'+AUX','#')
+
 print("0")
-RenderTreeGraph(top).to_picture("udo.png")
 
